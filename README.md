@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Anjali 👋
 
-<!--
-**AnjaliSethy/AnjaliSethy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer with ~3 years of experience building production web apps with **React, Next.js, TypeScript, and Tailwind CSS**. Based in Bhubaneswar, India.
 
-Here are some ideas to get you started:
+I care about clean UI architecture, real-time features that actually feel real-time, and turning messy multi-tenant systems into something maintainable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 What I work with
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Node.js` `NestJS` `PostgreSQL`
+
+### 💼 What I've built
+- **Multi-tenant hotel booking engine** — a 12-module property management system, including i18n/RTL support across four languages and complex TypeScript data flows.
+- **Enterprise HR/payroll/visa platform** — serving 14,000+ real-time users, with JWT refresh-token rotation, CASL-based RBAC, and Socket.IO real-time features.
+- Both are proprietary products I've worked on professionally — code isn't public, but I'm happy to walk through the architecture and problems solved.
+
+### 📌 Pinned projects
+Check out the repos below for public work — including my portfolio site and **Evently**, a SaaS event/guest management platform with a full brand identity system.
+
+### 📫 Reach me
+Open to connecting — feel free to check out my pinned repos or drop a message.
+
+---
+<sub>Currently exploring opportunities to grow into larger engineering teams.</sub>
